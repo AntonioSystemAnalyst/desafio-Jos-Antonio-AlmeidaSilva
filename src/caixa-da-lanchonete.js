@@ -115,7 +115,6 @@ function calcularValorDaCompra(metodoDePagamento, itens) {
             }
         }
     }
-    return value;
 }
 
 class CaixaDaLanchonete {
